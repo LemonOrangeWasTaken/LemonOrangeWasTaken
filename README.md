@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" src="https://raw.githubusercontent.com/LemonOrangeWasTaken/TheLemonOrange/cf006c33c497de6d43a959c96b85c3dc0afd6d76/assets/img/favicon.svg">
+</p>
+
 ### Hi there 👋
 
 <!--
