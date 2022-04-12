@@ -1,7 +1,3 @@
-<p align="center">  
-    <img alt="LemonOrange" width="100" src="https://raw.githubusercontent.com/LemonOrangeWasTaken/TheLemonOrange/cf006c33c497de6d43a959c96b85c3dc0afd6d76/assets/img/favicon.svg">
-    <br>
-</p>
 <h1 align="center" style="font-size:3rem">
   Greetings 👋 !
 </h1>
