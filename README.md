@@ -1,25 +1,29 @@
-<section align="center">  
+<p align="center">  
     <img alt="LemonOrange" width="100" src="https://raw.githubusercontent.com/LemonOrangeWasTaken/TheLemonOrange/cf006c33c497de6d43a959c96b85c3dc0afd6d76/assets/img/favicon.svg">
     <br>
-    <h1 style="font-size:3rem">
-      Greetings 👋 !
-    </h1>
-</section>
+</p>
+<h1 align="center" style="font-size:3rem">
+  Greetings 👋 !
+</h1>
 
-<section align="center">
+<p align="center">
+    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=lemonorangewastaken&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=ffc000&stroke=DDDDDD&dates=FFFFFF6D">
+</p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lemonorangewastaken&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FF7A00&fire=FFBE00&stroke=DDDDDD&dates=FFFFFF6D)](https://git.io/streak-stats)
-
-</section>
-
-<section align="center">
-
-  <a href="https://thelemonorange.com">![Portfolio](https://img.shields.io/badge/Portfolio-%230d1117.svg?style=for-the-badge&logo=safari&logoColor=f2880f)</a>
-  <a href="https://twitter.com/LemonOrangeTW" target="_blank">![Medium](https://img.shields.io/badge/Medium-%230d1117?style=for-the-badge&logo=medium&logoColor=white)</a>
-  <a href="https://www.youtube.com/channel/UCut2xeBl7HcPEPatqpEUoQw" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=FF0000)</a>
-  <a href="https://twitter.com/LemonOrangeTW" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)</a>
-
-</section>
+<p align="center">
+  <a href="https://thelemonorange.com">
+      <img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%230d1117.svg?style=for-the-badge&logo=safari&logoColor=f2880f">
+  </a>
+  <a href="https://medium.com/@thelemonorange" target="_blank">
+      <img alt="medium" src="https://img.shields.io/badge/Medium-%230d1117?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCut2xeBl7HcPEPatqpEUoQw" target="_blank">
+      <img alt="youtube" src="https://img.shields.io/badge/YouTube-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=FF0000">
+  </a>
+  <a href="https://twitter.com/LemonOrangeTW" target="_blank">
+      <img alt="twitter" src="https://img.shields.io/badge/Twitter-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=1DA1F2">
+  </a>
+</p>
 
 <br>
 
