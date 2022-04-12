@@ -49,10 +49,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-143?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&color=0078d7&labelColor=white)
 ![Atom](https://img.shields.io/badge/Atom-143?style=for-the-badge&logo=atom&logoColor=white&color=0d1a1a&labelColor=1aaf5d)
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 
 ### **Deep Learning Tools:**
 
