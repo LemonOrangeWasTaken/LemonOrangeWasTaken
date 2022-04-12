@@ -43,13 +43,16 @@
 ### **General Tools n' Stuff:**
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%231a1a1a.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-143?style=for-the-badge&logo=NPM&logoColor=white&color=cb0000&labelColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-fcbb16.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-143?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&color=0078d7&labelColor=white)
 ![Atom](https://img.shields.io/badge/Atom-143?style=for-the-badge&logo=atom&logoColor=white&color=0d1a1a&labelColor=1aaf5d)
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
 ### **Deep Learning Tools:**
 
