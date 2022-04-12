@@ -37,7 +37,6 @@
 # **Things I Like To Use 📦**
 
 ## **General Tools n' Stuff 🔨**
-#### *most → least used:*
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-143?style=for-the-badge&logo=NPM&logoColor=white&color=cb0000&labelColor=white)
