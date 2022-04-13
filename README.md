@@ -19,6 +19,9 @@
   <a href="https://twitter.com/LemonOrangeTW" target="_blank">
       <img alt="twitter" src="https://img.shields.io/badge/Twitter-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=1DA1F2">
   </a>
+  <a href="https://ko-fi.com/K3K1C4UDJ" target="_blank">
+      <img alt="kofi" src="https://img.shields.io/badge/Support%20Me-%230d1117.svg?style=for-the-badge&logo=kofi">
+  </a>
 </p>
 
 <br>
