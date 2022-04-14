@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:3rem">
-  Greetings 👋 !
+  Greetings! 👋
 </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 &emsp;I started doing software dev in 2015 with Java, and mainly focused on making games using the JFrame and Swing library (Not the best to make games with IMO).
 
-&emsp;Now, I mainly focus on ML algorithms and frontend UI/UX design. I try to integrate these two things together as often as I can so as to provide an intuitive yet comprihensive view on complicated machine learning algorithms. **Why?** Because I think it's fun to visualize AI algorithms and interact with them in real time :D .
+&emsp;Now, I mainly focus on ML algorithms and frontend UI/UX design. I try to integrate these two things together as often as I can so as to provide an intuitive yet comprehensive view on complicated machine learning algorithms. **Why?** Because I think it's fun to visualize AI algorithms and interact with them in real time :D .
 
 &emsp;I also like kitties and travelling.
 
