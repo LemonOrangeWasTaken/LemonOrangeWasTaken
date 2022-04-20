@@ -82,5 +82,5 @@
 
 <br>
 
-# **Reach Out To Me 🚀 !**
+# **Reach Out To Me! 🚀**
 For business inquiries: lemon@thelemonorange.com
