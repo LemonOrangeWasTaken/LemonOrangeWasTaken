@@ -31,7 +31,7 @@
 
 &emsp;I started doing software dev in 2015 with Java, and mainly focused on making games using the JFrame and Swing library (Not the best to make games with IMO).
 
-&emsp;Now, I mainly focus on ML algorithms and frontend UI/UX design. I try to integrate these two things together as often as I can so as to provide an intuitive yet comprehensive view on complicated machine learning algorithms. **Why?** Because I think it's fun to visualize AI algorithms and interact with them in real time :D .
+&emsp;Now, I mainly focus on ML/DL algorithms and UI/UX design using Svelte, Tensorflow and Tauri. I try to integrate these two things together as often as I can so as to provide an intuitive yet comprehensive view on complicated machine learning algorithms. **Why?** Because I think it's fun to visualize AI algorithms and interact with them in real time :D .
 
 &emsp;I also like kitties and travelling.
 
@@ -50,8 +50,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-143?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&color=0078d7&labelColor=white)
 ![Atom](https://img.shields.io/badge/Atom-143?style=for-the-badge&logo=atom&logoColor=white&color=0d1a1a&labelColor=1aaf5d)
 
-## **Deep Learning Stuff 🧠**
-#### *most → least used:*
+## **Deep Learning Frameworks n' stuff 🧠**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-white.svg?style=for-the-badge&logo=TensorFlow&logoColor=23FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -60,20 +59,21 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### **Languages ✨**
-#### *most → least used:*
+### **Languages & Frameworks ✨**
 
 ![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=typescript&logoColor=007acc)
 ![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=black)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23FFB387.svg?style=for-the-badge&logo=rust&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### **OS's 🖥**
-#### *most → least used:*
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
