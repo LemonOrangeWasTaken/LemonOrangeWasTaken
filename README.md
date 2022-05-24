@@ -45,6 +45,7 @@
 ![NPM](https://img.shields.io/badge/NPM-143?style=for-the-badge&logo=NPM&logoColor=white&color=cb0000&labelColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-fcbb16.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-143?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7&color=0078d7&labelColor=white)
